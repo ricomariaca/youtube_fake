@@ -1,0 +1,28 @@
+.nav {
+    background-color: black;
+}
+
+.logo{
+    color: red;
+}
+
+.search{
+    margin-left: 300px;
+    background-color: black;
+    width: 500px;
+    color: white;
+}
+
+.button{
+    color: gray;
+    background: black;
+    width: 55px;
+}
+.video{
+    margin-left: 200px;
+    color: white;
+}
+.menu{
+    margin-left: 20px;
+    color: white;
+}
