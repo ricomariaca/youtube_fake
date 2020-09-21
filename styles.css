@@ -67,3 +67,22 @@ ul li{
     margin-left: 110px;
 }
 
+.comentarios{
+    color: white;
+    margin-left: -250px;
+    margin-top: 10px;
+}
+
+.comentariosv2{
+    color: white ;
+    margin-left: -250px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.comentariosv3{
+    color: gray;
+    margin-left: -250px;
+    font-size: 14px;
+    margin-top: -20px;
+}
+
