@@ -32,3 +32,27 @@ body{
 .fakevideo{
     margin: 30px 50px ;
 }
+ul li{
+    list-style: none;
+}
+.lista_texto{
+    color: white;
+}
+.texto_video{
+    color: gray;
+    margin-top: -7px;
+}
+.texto_video_titulo{
+    color: white;
+    margin-top: -7px;
+}
+.hr{
+    border: 0.5px solid gray;
+    margin-top: 15px;
+    margin-left: -1px;
+    }
+.ajuste_video_lista{
+    margin-top: 10px;
+}
+
+
