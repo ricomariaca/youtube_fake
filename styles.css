@@ -54,5 +54,16 @@ ul li{
 .ajuste_video_lista{
     margin-top: 10px;
 }
-
+.boton{
+    background: red;
+    border-radius: 10%;
+    color: white;
+}
+.foto{
+    border-radius: 100%;
+}
+.descripcion{
+    color: white;
+    margin-left: 110px;
+}
 
